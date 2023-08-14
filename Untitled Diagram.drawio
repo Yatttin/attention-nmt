@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2023-08-14T07:01:36.212Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="IUggQ1oxMNXB2THociXh" version="21.6.8" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2023-08-14T07:03:26.548Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="5YbBcdK68VqyjxI43DQW" version="21.6.8" type="github" pages="4">
   <diagram name="Page-1" id="LOGe5GBcDBh1mAJ9t0Eh">
-    <mxGraphModel dx="1235" dy="828" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2100" dy="1340" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="3Su2aN2kJ7Bb-llSMdtb-44" value="" style="whiteSpace=wrap;html=1;fillColor=#fbefe4;strokeColor=#ea902a;strokeWidth=2;gradientColor=none;" parent="1" vertex="1">
-          <mxGeometry x="320" y="111" width="440" height="1350" as="geometry" />
+          <mxGeometry x="320" y="111" width="440" height="1299" as="geometry" />
         </mxCell>
         <mxCell id="C99cIZ5OWCIX-Rf5DpSp-2" value="&lt;blockquote style=&quot;margin: 0 0 0 40px; border: none; padding: 0px;&quot;&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;基础数据：&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;评价期&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;生产能力(销售产能)&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;财务贴现率&lt;/span&gt;&lt;/div&gt;&lt;/blockquote&gt;" style="text;whiteSpace=wrap;html=1;fillColor=#eeeeee;strokeColor=#36393d;" parent="1" vertex="1">
           <mxGeometry x="80" y="140" width="150" height="100" as="geometry" />
