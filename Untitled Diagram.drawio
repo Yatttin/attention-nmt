@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-08-16T03:03:12.010Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="MvHgzbc0-d815_-cIKP5" version="21.6.8" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2023-08-16T06:46:40.889Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="m9zbl1z22nWWUQQmEhBX" version="21.6.8" type="github" pages="4">
   <diagram name="Page-1" id="LOGe5GBcDBh1mAJ9t0Eh">
     <mxGraphModel dx="2475" dy="1348" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -220,7 +220,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="BYXEdeNaDgYtozzeG7WJ" name="财务内部收益率">
-    <mxGraphModel dx="1950" dy="658" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1734" dy="453" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -364,9 +364,6 @@
         </mxCell>
         <mxCell id="wkamasSicyBDhr9J4LGk-84" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;=&lt;/span&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;fillColor=#cce5ff;strokeColor=#36393d;align=center;" parent="1" vertex="1">
           <mxGeometry x="490" y="265" width="20" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="wkamasSicyBDhr9J4LGk-85" value="待定" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=none;gradientColor=none;" parent="1" vertex="1">
-          <mxGeometry x="510" y="305" width="209.75" height="20" as="geometry" />
         </mxCell>
         <mxCell id="wkamasSicyBDhr9J4LGk-86" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;=&lt;/span&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;fillColor=#cce5ff;strokeColor=#36393d;align=center;" parent="1" vertex="1">
           <mxGeometry x="40" y="193" width="20" height="20" as="geometry" />
@@ -596,10 +593,10 @@
         <mxCell id="LDojU11h6FetrdpMKzlN-27" value="&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;+&amp;nbsp;&lt;/span&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;fillColor=#cce5ff;strokeColor=#36393d;align=right;verticalAlign=bottom;" parent="1" vertex="1">
           <mxGeometry x="730" y="803" width="20" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="LDojU11h6FetrdpMKzlN-28" value="总成本费用" style="text;whiteSpace=wrap;strokeColor=default;verticalAlign=bottom;" parent="1" vertex="1">
+        <mxCell id="LDojU11h6FetrdpMKzlN-28" value="总成本费用" style="text;whiteSpace=wrap;verticalAlign=bottom;fillColor=default;strokeColor=default;" parent="1" vertex="1">
           <mxGeometry x="632" y="841" width="70" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="LDojU11h6FetrdpMKzlN-29" value="出口退税" style="text;whiteSpace=wrap;strokeColor=default;verticalAlign=bottom;" parent="1" vertex="1">
+        <mxCell id="LDojU11h6FetrdpMKzlN-29" value="出口退税" style="text;whiteSpace=wrap;strokeColor=default;verticalAlign=bottom;fillColor=default;" parent="1" vertex="1">
           <mxGeometry x="807" y="841" width="80" height="20" as="geometry" />
         </mxCell>
         <mxCell id="LDojU11h6FetrdpMKzlN-30" value="&lt;div style=&quot;&quot;&gt;-&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;fillColor=#cce5ff;strokeColor=#36393d;align=center;direction=south;" parent="1" vertex="1">
@@ -637,6 +634,12 @@
         </mxCell>
         <mxCell id="LDojU11h6FetrdpMKzlN-44" value="投资估算表" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" parent="1" vertex="1">
           <mxGeometry x="660" y="265" width="66.5" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="KyaMZX5GwigarBVGnP47-1" value="year1=year1增量流动资金、year2=year3增量流动资金" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="510" y="296" width="200" height="38" as="geometry" />
+        </mxCell>
+        <mxCell id="KyaMZX5GwigarBVGnP47-2" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;=&lt;/span&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;fillColor=#cce5ff;strokeColor=#36393d;align=center;" vertex="1" parent="1">
+          <mxGeometry x="490" y="304" width="20" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
