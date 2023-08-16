@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-08-16T06:46:40.889Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="m9zbl1z22nWWUQQmEhBX" version="21.6.8" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2023-08-16T10:03:58.665Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="ocPoQdHtZ8FJBFaktwsD" version="21.6.8" type="github" pages="5">
   <diagram name="Page-1" id="LOGe5GBcDBh1mAJ9t0Eh">
     <mxGraphModel dx="2475" dy="1348" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -219,8 +219,8 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="BYXEdeNaDgYtozzeG7WJ" name="财务内部收益率">
-    <mxGraphModel dx="1734" dy="453" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+  <diagram id="BYXEdeNaDgYtozzeG7WJ" name="Page-3 财务内部收益率">
+    <mxGraphModel dx="2072" dy="678" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -635,17 +635,29 @@
         <mxCell id="LDojU11h6FetrdpMKzlN-44" value="投资估算表" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" parent="1" vertex="1">
           <mxGeometry x="660" y="265" width="66.5" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="KyaMZX5GwigarBVGnP47-1" value="year1=year1增量流动资金、year2=year3增量流动资金" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="510" y="296" width="200" height="38" as="geometry" />
+        <mxCell id="KyaMZX5GwigarBVGnP47-1" value="year1=year1增量流动资金、year2=year3增量流动资金(只有前2年吗)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="510" y="295" width="220" height="38" as="geometry" />
         </mxCell>
         <mxCell id="KyaMZX5GwigarBVGnP47-2" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;=&lt;/span&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;fillColor=#cce5ff;strokeColor=#36393d;align=center;" vertex="1" parent="1">
           <mxGeometry x="490" y="304" width="20" height="20" as="geometry" />
         </mxCell>
+        <mxCell id="KyaMZX5GwigarBVGnP47-3" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;=&lt;/span&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;fillColor=#cce5ff;strokeColor=#36393d;align=center;" vertex="1" parent="1">
+          <mxGeometry x="730" y="304" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="KyaMZX5GwigarBVGnP47-5" value="增量的销售收入" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=bottom;" vertex="1" parent="1">
+          <mxGeometry x="749" y="304" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="KyaMZX5GwigarBVGnP47-6" value="&lt;table border=&quot;0&quot; cellpadding=&quot;0&quot; cellspacing=&quot;0&quot; width=&quot;253&quot; style=&quot;border-collapse:&lt;br/&gt; collapse;width:190pt&quot;&gt;&lt;colgroup&gt;&lt;col width=&quot;253&quot; style=&quot;mso-width-source:userset;mso-width-alt:8089;width:190pt&quot;&gt;&lt;/colgroup&gt;&lt;tbody&gt;&lt;tr height=&quot;25&quot; style=&quot;height:18.6pt&quot;&gt;&lt;td height=&quot;25&quot; class=&quot;xl65&quot; width=&quot;253&quot; style=&quot;height:18.6pt;width:190pt&quot;&gt;流动资金占销售收入比例&lt;/td&gt; &lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;" style="text;whiteSpace=wrap;html=1;fillColor=default;gradientColor=none;strokeColor=default;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="857" y="304" width="137" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="KyaMZX5GwigarBVGnP47-7" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;*&lt;/span&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;fillColor=#cce5ff;strokeColor=#36393d;align=center;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="838" y="304" width="20" height="20" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="AZlENVAGURJsjbnaZcF7" name="总费用成本">
-    <mxGraphModel dx="1950" dy="658" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+  <diagram id="AZlENVAGURJsjbnaZcF7" name="Page-4 总费用成本">
+    <mxGraphModel dx="2072" dy="678" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -908,6 +920,29 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-137.08" y="142" as="sourcePoint" />
             <mxPoint x="-137.08" y="176" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="Zptd3579ISN-zrxD6J1D" name="Page-5 投资回收期">
+    <mxGraphModel dx="670" dy="324" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="8Bc1Oon5WnSPFcs6_g_i-1" value="C32-D32/(E32-D32)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="150" y="40" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="8Bc1Oon5WnSPFcs6_g_i-2" value="投资回收期=" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="40" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="8Bc1Oon5WnSPFcs6_g_i-4" value="累计所得税前增量净现金流量中负数个数&lt;br&gt;（流出大于流入有几年)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="90" y="110" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8Bc1Oon5WnSPFcs6_g_i-5" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.099;exitY=1.045;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.453;entryY=-0.037;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="8Bc1Oon5WnSPFcs6_g_i-1" target="8Bc1Oon5WnSPFcs6_g_i-4">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="140" y="240" as="sourcePoint" />
+            <mxPoint x="190" y="190" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
