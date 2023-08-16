@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-08-16T10:03:58.665Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="ocPoQdHtZ8FJBFaktwsD" version="21.6.8" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2023-08-16T15:32:32.042Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="cO1FUyD2jDrdg2BYJsW2" version="21.6.8" type="github" pages="5">
   <diagram name="Page-1" id="LOGe5GBcDBh1mAJ9t0Eh">
-    <mxGraphModel dx="2475" dy="1348" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="972" dy="504" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -42,7 +42,7 @@
             <mxPoint x="440" y="330" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="3Su2aN2kJ7Bb-llSMdtb-18" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.667;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" target="3Su2aN2kJ7Bb-llSMdtb-8" edge="1" source="3Su2aN2kJ7Bb-llSMdtb-1">
+        <mxCell id="3Su2aN2kJ7Bb-llSMdtb-18" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.667;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="3Su2aN2kJ7Bb-llSMdtb-1" target="3Su2aN2kJ7Bb-llSMdtb-8" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="170" y="350" as="sourcePoint" />
             <mxPoint x="220" y="300" as="targetPoint" />
@@ -137,7 +137,7 @@
         <mxCell id="3Su2aN2kJ7Bb-llSMdtb-68" value="财务计划现金流量表" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="80" y="1200" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="3Su2aN2kJ7Bb-llSMdtb-70" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#e1d5e7;strokeColor=#9673a6;strokeWidth=2;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="1" target="3Su2aN2kJ7Bb-llSMdtb-42" edge="1" source="3Su2aN2kJ7Bb-llSMdtb-56">
+        <mxCell id="3Su2aN2kJ7Bb-llSMdtb-70" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#e1d5e7;strokeColor=#9673a6;strokeWidth=2;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="3Su2aN2kJ7Bb-llSMdtb-56" target="3Su2aN2kJ7Bb-llSMdtb-42" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="40" y="1350" as="sourcePoint" />
             <mxPoint x="330" y="1180" as="targetPoint" />
@@ -147,7 +147,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="nXxQbu8SPRF0JAPtOL0H-4" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#82B366;strokeWidth=2;" edge="1" parent="1" source="3Su2aN2kJ7Bb-llSMdtb-56" target="3Su2aN2kJ7Bb-llSMdtb-1">
+        <mxCell id="nXxQbu8SPRF0JAPtOL0H-4" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#82B366;strokeWidth=2;" parent="1" source="3Su2aN2kJ7Bb-llSMdtb-56" target="3Su2aN2kJ7Bb-llSMdtb-1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="420" y="640" as="sourcePoint" />
             <mxPoint x="470" y="590" as="targetPoint" />
@@ -926,24 +926,36 @@
     </mxGraphModel>
   </diagram>
   <diagram id="Zptd3579ISN-zrxD6J1D" name="Page-5 投资回收期">
-    <mxGraphModel dx="670" dy="324" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="670" dy="348" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="8Bc1Oon5WnSPFcs6_g_i-1" value="C32-D32/(E32-D32)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="150" y="40" width="120" height="30" as="geometry" />
+        <mxCell id="8Bc1Oon5WnSPFcs6_g_i-1" value="C32-D32/(E32-D32)" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="150" y="40" width="170" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="8Bc1Oon5WnSPFcs6_g_i-2" value="投资回收期=" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="8Bc1Oon5WnSPFcs6_g_i-2" value="投资回收期=" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="40" y="40" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="8Bc1Oon5WnSPFcs6_g_i-4" value="累计所得税前增量净现金流量中负数个数&lt;br&gt;（流出大于流入有几年)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="8Bc1Oon5WnSPFcs6_g_i-4" value="累计所得税前增量净现金流量中负数个数&lt;br&gt;（流出大于流入有几年)" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="90" y="110" width="140" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="8Bc1Oon5WnSPFcs6_g_i-5" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.099;exitY=1.045;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.453;entryY=-0.037;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="8Bc1Oon5WnSPFcs6_g_i-1" target="8Bc1Oon5WnSPFcs6_g_i-4">
+        <mxCell id="8Bc1Oon5WnSPFcs6_g_i-5" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.099;exitY=1.045;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.453;entryY=-0.037;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="8Bc1Oon5WnSPFcs6_g_i-1" target="8Bc1Oon5WnSPFcs6_g_i-4" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="140" y="240" as="sourcePoint" />
             <mxPoint x="190" y="190" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="06Uf8NJCAp0KTNx7mOzD-1" value="项目投资现金流量表中累计净现金流量由负值变为零的时点，即为项目的投资回收期。" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="370" y="30" width="330" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="06Uf8NJCAp0KTNx7mOzD-2" value="从累计净现金流量由负值变为零的时点，累计所得税前增量净现金流量&amp;lt;0中的最大值，如均&amp;gt;0，则为空" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="240" y="110" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="06Uf8NJCAp0KTNx7mOzD-3" value="累计所得税前增量净现金流量&amp;gt;0中的最小值" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="460" y="110" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="06Uf8NJCAp0KTNx7mOzD-4" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;2-(-3000)/(3000-(-3000))&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;=2-（-0.5）&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;=2.5&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="150" y="220" width="170" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
