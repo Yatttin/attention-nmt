@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-08-19T06:02:05.471Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="BsSrmKsLJ5Acon7T1X_F" version="21.6.8" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2023-08-19T06:05:07.551Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="NGMgU7E97FG97vKQvWSn" version="21.6.8" type="github" pages="8">
   <diagram id="x4oPN-7VKHemBpTbZIxq" name="Page-8 总指标">
     <mxGraphModel dx="988" dy="744" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -345,7 +345,7 @@
         <mxCell id="LDojU11h6FetrdpMKzlN-8" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;=&lt;/span&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;fillColor=#cce5ff;strokeColor=#36393d;align=center;" parent="1" vertex="1">
           <mxGeometry x="795" y="775" width="20" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="LDojU11h6FetrdpMKzlN-9" value="抵免(year2和year3公式不一样, 不太清楚)" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=bottom;" parent="1" vertex="1">
+        <mxCell id="LDojU11h6FetrdpMKzlN-9" value="&lt;span style=&quot;background-color: rgb(255, 204, 255);&quot;&gt;抵免(year2和year3公式不一样, 待确认)&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=bottom;" parent="1" vertex="1">
           <mxGeometry x="855" y="795" width="230" height="20" as="geometry" />
         </mxCell>
         <mxCell id="LDojU11h6FetrdpMKzlN-10" value="&lt;div style=&quot;&quot;&gt;-&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;fillColor=#cce5ff;strokeColor=#36393d;align=center;direction=south;" parent="1" vertex="1">
@@ -729,7 +729,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="Zptd3579ISN-zrxD6J1D" name="Page-5 投资回收期">
-    <mxGraphModel dx="988" dy="744" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="732" dy="504" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -779,7 +779,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="mI77esWobQvHFbo4HCQG" name="Page-6 (待完善)总投资收益率&amp;投资利税率&amp;资本金净利润率">
-    <mxGraphModel dx="732" dy="504" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="861" dy="593" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
